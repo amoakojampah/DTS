@@ -1,0 +1,7 @@
+#unzip the file
+#move the zip folder to this directory xampp/htdocs//then paste it there//
+#open xampp and create database ,name database as updateDatabase
+#then Import the updatDatabase from this directories /xampp/htdocs/perry/SQL to new database u just created
+#while the xammpp is running goto ur browser and type localHost/perry or 127.0.0.1/localhost
+username:Qwame
+Password:perry
